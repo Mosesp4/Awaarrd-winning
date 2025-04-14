@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://youtu.be/zA9r5zTllx4" target="_blank">
+  <a href="https://awaarrd-winning.vercel.app/" target="_blank">
     <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
   </a>
 
@@ -11,8 +11,6 @@
 
   <h2>Awwwards Winning Website Clone</h2>
   <p>Recreating the luxurious Zentry site design – modern, interactive, and elegant.</p>
-
-  <p>🎬 <strong><a href="https://youtu.be/zA9r5zTllx4" target="_blank">Watch the Build Tutorial</a></strong> by JavaScript Mastery</p>
 </div>
 
 ---
@@ -21,7 +19,7 @@
 
 A creative and fully responsive website built using **React.js**, **GSAP animations**, and **Tailwind CSS**. Inspired by [Zentry.com](https://zentry.com), this project features scroll-based animations, clip-path transitions, 3D hover effects, video storytelling, and a sleek modern UI.
 
-> ⚠️ This project is for educational purposes only. All design credits go to **[Zentry](https://zentry.com/)**.
+> ⚠️ This project is for skill development purpose only. All design credits go to **[Zentry](https://zentry.com/)**.
 
 ---
 
@@ -63,5 +61,8 @@ Ensure you have the following installed on your machine:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/award-winning-website.git
+git clone https://github.com/Mosesp4/Awaarrd-winning.git
 cd award-winning-website
+```
+### See Website Live:
+**[Go Live](https://awaarrd-winning.vercel.app/)**.
