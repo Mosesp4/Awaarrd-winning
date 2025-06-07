@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://awaarrd-winning.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
+    <img src="https://github.com/user-attachments/assets/055915ec-fb6c-4d48-a7c0-0610e31d4c36" alt="Project Banner">
   </a>
 
   <br />
@@ -19,7 +19,6 @@
 
 A creative and fully responsive website built using **React.js**, **GSAP animations**, and **Tailwind CSS**. Inspired by [Zentry.com](https://zentry.com), this project features scroll-based animations, clip-path transitions, 3D hover effects, video storytelling, and a sleek modern UI.
 
-> ⚠️ This project is for skill development purpose only. All design credits go to **[Zentry](https://zentry.com/)**.
 
 ---
 
